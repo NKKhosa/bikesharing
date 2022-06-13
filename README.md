@@ -1,11 +1,12 @@
 # Analyzing bikesharing trends with Citibike Data
+
 ## Overview
+
 A proposal to open a bike sharing company in Des Moines, Iowa required data to support to convince investors. Data from Citibike in NYC (August 2018) was used to create visualizations that show potential usage patterns in Des Moines.
 
 
 ## Results
-- at least 7 visualizations 
-- describe each
+
 The visualizations can be viewed on Tableau Public at: [NYC Citibike analysis](https://public.tableau.com/app/profile/neeshma.khosa/viz/NYCCitibike_16550801385520/NYCCitibikeReport?publish=yes "link to story").
 - August Peak Hours
   - Peak hours are between 5pm and 7pm.
@@ -37,5 +38,13 @@ The visualizations can be viewed on Tableau Public at: [NYC Citibike analysis](h
   - The remainder is users with unknown genders.
 
 ## Summary
-- summary of results
-- 2 additional visualizations suggested for futture analysis
+
+The visualizations above indicate that citibike gets a majority of its usage from male subscribers who are likely utilizing the bike-sharing service to get to and from work. The data for female users shows the same patterns but at a lower level. Majority of trips start in the mid to lower Manhattan area which could be due to the increased traffic (foot, vehicle, and public transit) due to high tourism, which would create incentive to find alternative modes of travel. The average duration of trips by age suggests that younger users get more usage out of their bikes before returning.
+
+Additional visualizations that may provide further clarity to usage patterns are:
+- Starttimes and trip durations for non-subscribing customers.
+  - This visualization could potential provide insight to the main motivators pushing occasional users to opt for bike-sharing.
+- Starting locations by Gender
+  - This visualization could reveal which areas women start trips more frequently,
+  - We could then do research on this area and see the circumstances required for higher female use.
+  
