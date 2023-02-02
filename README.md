@@ -7,7 +7,12 @@ A proposal to open a bike sharing company in Des Moines, Iowa required data to s
 
 ## Results
 
-The visualizations can be viewed on Tableau Public at: [NYC Citibike analysis](https://public.tableau.com/app/profile/neeshma.khosa/viz/NYCCitibike_16550801385520/NYCCitibikeReport?publish=yes "link to story").
+The visualizations can be viewed in full on Tableau Public at: [NYC Citibike analysis](https://public.tableau.com/app/profile/neeshma.khosa/viz/NYCCitibike_16550801385520/NYCCitibikeReport?publish=yes "link to story").
+
+![](https://github.com/NKKhosa/bikesharing/blob/main/Resources/basic_trip_viz.png?raw=true)
+
+![](https://github.com/NKKhosa/bikesharing/blob/main/Resources/trip_user_data_gender.png?raw=true)
+
 - August Peak Hours
   - Peak hours are between 5pm and 7pm.
   - Off-peak hours are between 1 am and 6 am.
